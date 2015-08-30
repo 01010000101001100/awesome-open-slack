@@ -7,6 +7,9 @@ Inspired by [awesome-python](https://github.com/avelino/awesome-python) & [aweso
 - [chats.directory](http://chats.directory/)
 - [Chit Chats](http://www.chitchats.co/)
 
+## Startup Communities
+- [Focus Asia](http://focusasia.famouslabs.co?ref=github): Tech/startup oriented Slack Community in Asia. Join entrepreneurs, engineers, marketers, investors and other ambitious people - members from Singapore, Hong Kong, Taiwan, Japan, Korea, China, Vietnam, Malaysia, Indonesia, Philippines and US.
+
 ## UI/UX Design
 
 ### UX Design
